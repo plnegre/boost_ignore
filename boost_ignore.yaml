@@ -1,0 +1,12 @@
+boost:
+  ubuntu: []
+libboost-dev:
+  ubuntu: []
+libboost-all-dev:
+  ubuntu: []
+libboost-system-dev:
+  ubuntu: []
+libboost-system1.58-dev:
+  ubuntu: []
+libboost1.58-dev:
+  ubuntu: []
